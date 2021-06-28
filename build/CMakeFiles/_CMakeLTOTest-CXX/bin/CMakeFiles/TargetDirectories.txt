@@ -1,0 +1,4 @@
+/home/bartek/Pulpit/zad5_3-BFigaj/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
+/home/bartek/Pulpit/zad5_3-BFigaj/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/home/bartek/Pulpit/zad5_3-BFigaj/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/home/bartek/Pulpit/zad5_3-BFigaj/build/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
